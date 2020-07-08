@@ -1,0 +1,1 @@
+C:\PythonVirtualEnvironments\SRCPython373\Scripts\jupyter-notebook.exe
